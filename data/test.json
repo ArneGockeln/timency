@@ -1,0 +1,22 @@
+{
+    "client": "aara.digital",
+    "rate_per_hour": 100.0,
+    "tasks": [
+        {
+            "date": "2022-04-11",
+            "start": "14:00",
+            "end": "18:00",
+            "project": "Timency",
+            "notes": "UI development",
+            "billed": false
+        },
+        {
+            "date": "2022-04-12",
+            "start": "09:00",
+            "end": "13:00",
+            "project": "Timency",
+            "notes": "Backend development",
+            "billed": true
+        }
+    ]
+}
